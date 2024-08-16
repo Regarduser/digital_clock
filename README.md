@@ -14,4 +14,8 @@ Application for mac application -
 
 get source code - 
 
+window application - https://github.com/Regarduser/digital_clock/releases/download/clock-w/digital.app.zip
 
+mac application - https://github.com/Regarduser/digital_clock/releases/download/clock/digital.app.zip
+
+source - https://github.com/Regarduser/digital_clock/archive/refs/heads/main.zip
